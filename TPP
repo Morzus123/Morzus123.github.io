@@ -1,0 +1,9 @@
+<html>
+<head>
+	<title>GKS TYCHY</title>
+</head>
+<body>
+	<h1>GKS TYCHY rządzi w Pszczynie</h1>
+	<h2>Jebać npp, w Pszczynie tylko TPP</h2>
+</body>
+</html>
